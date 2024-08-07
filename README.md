@@ -19,11 +19,11 @@
 
 ### 📊 MMy GitHub Stats
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzochang&show_icons=true&theme=radical)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomchang&show_icons=true&theme=radical)
 
 ### 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzochang&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzomchang&layout=compact&theme=radical)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
