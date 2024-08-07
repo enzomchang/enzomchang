@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23FF5733&size=40&center=true&vCenter=true&width=550&height=70&lines=Analista+de+Dados;Desenvolvedor+RPA;Entusiasta+de+Tecnologia">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23FF5733&size=40&center=true&vCenter=true&width=550&height=70&lines=RPA+Developer;Data+Scientist">
 </p>
 
 <p align="center">
