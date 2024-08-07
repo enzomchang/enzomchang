@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/enzomoraeschang/">
-    <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/enzomoraeschang-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Chang-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:enzochang_@outlook.com">
     <img src="https://img.shields.io/badge/Email-enzochang_@outlook.com-red?style=flat&logo=gmail" />
