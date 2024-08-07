@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/enzomoraeschang">
+  <a href="https://www.linkedin.com/in/enzomoraeschang/">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Chang-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:enzochang_@outlook.com">
@@ -17,7 +17,7 @@
 </p>
 
 
-### 📊 MMy GitHub Stats
+### 📊 My GitHub Stats
 
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomchang&show_icons=true&theme=radical)
 
