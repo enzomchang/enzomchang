@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enzomchang/">
+  <a href="www.linkedin.com/in/enzomoraeschang/">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Chang-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:enzochang_@outlook.com">
-    <img src="https://img.shields.io/badge/Email-enzochang%40example.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-enzochang_@outlook.com-red?style=flat&logo=gmail" />
   </a>
 </p>
 
@@ -33,6 +33,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzochang&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzomchang&color=blue" alt="Profile views" />
-</p>
